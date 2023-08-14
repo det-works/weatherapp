@@ -1,0 +1,8 @@
+.temp-toggle {
+    width: fit-content;
+}
+
+.temp-toggle span {
+    cursor: pointer;
+    border: 1px solid black;
+}
